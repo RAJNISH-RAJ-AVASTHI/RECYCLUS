@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 4.5rem;
+}
+
+hr {
+  border-style: solid;
+  color: white;
+  width: 45%;
+  margin-bottom: 20px;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
+  color: white;
+  padding: 40px 90px;
+  text-align: left;
+  text-justify: inter-word;
+
+}

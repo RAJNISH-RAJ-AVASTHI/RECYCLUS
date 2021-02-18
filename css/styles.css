@@ -1,0 +1,96 @@
+
+
+
+#car {
+  text-align: center;
+
+}
+/* #car-carousel {
+  height: 630px;
+} */
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.carousel-inner {
+  padding-top: 60px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  filter: invert(100%);
+}
+
+#title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+#image {
+  width: 45%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.container-fluid1 {
+  padding: 2% 5%;
+  background-color: #4ece54;
+}
+
+
+.container-fluid {
+  padding: 3% 2%;
+}
+
+.cen {
+  text-align: center;
+}
+
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.margin {
+  width: 90%;
+}
+.nav-item {
+  margin: 0.5rem;
+}
+.row {
+
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+#cards {
+  background-color: #4ece54;
+  padding: 4% 5%;
+  font-family: 'Montserrat', sans-serif;
+}
+.card {
+  padding-top: 4%;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5);
+}
+
+.foo {
+  background-color: #00332e;
+  padding: 4% 5%;
+}
+
+/* Test-Items */
+.fab {
+  color: white;
+  margin: 0 20px;
+}
+
+.fab:hover{
+  color: #4ece54;
+}
+.hov:hover{
+
+color:white;
+}
